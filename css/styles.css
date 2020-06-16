@@ -1,0 +1,130 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat' ;
+
+}
+
+hr {
+    border: 0;
+    width: 50%;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin: 50px auto;
+}
+
+/*
+
+font-family: 'Ubuntu', ;
+font-family: 'Ubuntu Condensed', ;
+font-family: 'Montserrat', ;
+font-family: 'Cormorant Garamond', ;
+
+*/
+
+/******************** Navigation Section ******************/
+
+.navbar {
+    box-shadow: 0 2px 20px -2px rgba(0,0,0,.8);
+    font-size: 1rem;
+    letter-spacing: 0.3rem;
+}
+
+/******************** Header Image Section ******************/
+
+/*
+
+#header-section {
+
+}
+
+#header {
+
+}
+
+*/
+
+.header-image {
+    width: 100%;
+}
+
+
+
+/******************** Introduction Section ******************/
+
+.uc {
+    letter-spacing: 1.25rem;
+}
+
+.under-construction-left {
+    height: 300px;
+    margin-left: auto;
+}
+
+.introduction-truck-image {
+    height: 100%;
+    width: auto;
+    opacity: 40%;
+}
+
+.under-construction-right {
+    height: 300px;
+    margin-right: auto;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.introduction-text{
+    height: 300px;
+}
+
+/*
+
+#introduction-section {
+
+}
+
+
+*/
+
+/******************** Colleauges Section ******************/
+
+/*
+#colleauges-section {
+
+}
+
+*/
+
+.colleauges-container{
+    width: 75%;
+    margin: 0px auto;
+}
+
+.colleauge-container{
+    display: inline-block;
+    margin: 10px 40px;
+}
+
+.profile-pic {
+    width: 80%;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.profile-name {
+    padding: 10px;
+
+}
+
+.profile-title {
+
+}
+
+.profile-email {
+
+}
+
+.profile-phone {
+
+}
+
